@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-alpha.1",
+  "version": "0.0.2",
   "name": "gatsby-source-graphcms",
   "description": "Gatsby source plugin for building websites using the GraphCMS as a data source.",
   "keywords": [
@@ -10,13 +10,13 @@
     "graphql",
     "source"
   ],
-  "homepage": "https://github.com/GraphCMS/gatsby-source-graphcms",
+  "homepage": "https://github.com/senorgeno/gatsby-source-graphcms",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GraphCMS/gatsby-source-graphcms.git"
+    "url": "https://github.com/senorgeno/gatsby-source-graphcms.git"
   },
   "bugs": {
-    "url": "https://github.com/GraphCMS/gatsby-source-graphcms/issues"
+    "url": "https://github.com/senorgeno/gatsby-source-graphcms/issues"
   },
   "license": "MIT",
   "author": "Angel Piscola <angelpiscola@gmail.com>",
